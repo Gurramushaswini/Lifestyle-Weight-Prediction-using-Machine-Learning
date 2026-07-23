@@ -113,15 +113,12 @@ The regression model was evaluated using the following metrics:
 Lifestyle-Weight-Prediction/
 │
 ├── README.md
-├── project.ipynb
-├── dataset.csv
-├── Documentation.pdf
-|__logi.py
-├── requirements.txt
-└── LICENSE
+├── project (1).ipynb
+├── linear.py
+├── lifestyle weight tracker.csv
+├── linear_regression_model.pkl
+└── scaler.pkl
 ```
-
----
 
 ## 🚀 Future Enhancements
 
